@@ -2453,11 +2453,12 @@ body {
         color: #fff;
       }
       color: #fff;
-      height: auto;
+      height: 50px;
+      width: 160px;
       display: block;
       font-size: 14px;
       /* background: #3385FF; */
-      background-image: url('../assets/img/landing/brand-background.png');
+      background-image: url('../assets/img/landing/brand-background.png') no-repeat;
       padding: 15px 20px;
       border-radius: 0 0 5px 5px;
       font-weight: 700;
