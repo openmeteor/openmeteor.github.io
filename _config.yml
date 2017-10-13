@@ -8,6 +8,7 @@ baseurl:  / # if you have suburl as homepage like '/homepage', please change it 
 url: https://openmeteor.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+logo:/static/assets/img/landing/brand-background.png
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
