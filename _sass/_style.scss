@@ -256,7 +256,8 @@ body.canvas-menu .nav-header {
 }
 
 .top-navigation .navbar-brand {
-  background: #3385FF;
+  /* background: #3385FF; */
+  background-image: url('../assets/img/landing/brand-background.png');
   color: #fff;
   padding: 15px 25px;
 }
