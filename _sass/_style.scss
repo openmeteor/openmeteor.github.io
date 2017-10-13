@@ -2449,7 +2449,8 @@ body {
     }
     .navbar-brand {
       &:focus, &:hover {
-        background: #3385FF;
+        /* background: #3385FF; */
+        background-image: url('../assets/img/landing/brand-background.png');
         color: #fff;
       }
       color: #fff;
