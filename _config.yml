@@ -13,8 +13,8 @@ logo: /static/assets/img/landing/brand-background.png
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: OpenMeteor  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
+  first_name:   # Be used at index page about me section.
+  last_name:   # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: openmeteor  # Leave blank if you don't have now
   linkedin_id:  # Leave blank if you don't have now
@@ -22,7 +22,54 @@ author:  # change following line to your infomation.
   twitter_username:  # Leave blank if you don't have now
   email:   # Leave blank if you don't have now
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
-  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+
+# members -- index page "about me" section
+  member1:  # change following line to your infomation.
+    name: Jeremie  # Be used at blog posts' author.
+    first_name: Jeremie # Be used at index page about me section.
+    last_name: Vaubaillon  # Be used at index page about me section.
+    avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+    github_username:  # Leave blank if you don't have now
+    linkedin_id:  # Leave blank if you don't have now
+    facebook_username:   # Leave blank if you don't have now
+    twitter_username:  # Leave blank if you don't have now
+    email:   # Leave blank if you don't have now
+    cv: # An online CV can be printed as PDF, leave blank if you don't have now
+  member2:  # change following line to your infomation.
+    name: Daniel  # Be used at blog posts' author.
+    first_name: Daniel # Be used at index page about me section.
+    last_name: Kastinen  # Be used at index page about me section.
+    avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+    github_username:  # Leave blank if you don't have now
+    linkedin_id:  # Leave blank if you don't have now
+    facebook_username:   # Leave blank if you don't have now
+    twitter_username:  # Leave blank if you don't have now
+    email:   # Leave blank if you don't have now
+    cv: # An online CV can be printed as PDF, leave blank if you don't have now
+  member3:  # change following line to your infomation.
+    name: Hadrien  # Be used at blog posts' author.
+    first_name: Hadrien # Be used at index page about me section.
+    last_name: Devillepoix  # Be used at index page about me section.
+    avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+    github_username:  # Leave blank if you don't have now
+    linkedin_id:  # Leave blank if you don't have now
+    facebook_username:   # Leave blank if you don't have now
+    twitter_username:  # Leave blank if you don't have now
+    email:   # Leave blank if you don't have now
+    cv: # An online CV can be printed as PDF, leave blank if you don't have now
+  member3:  # change following line to your infomation.
+    name: Denis  # Be used at blog posts' author.
+    first_name: Denis # Be used at index page about me section.
+    last_name: Vida  # Be used at index page about me section.
+    avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+    github_username: dvida # Leave blank if you don't have now
+    linkedin_id:  # Leave blank if you don't have now
+    facebook_username:   # Leave blank if you don't have now
+    twitter_username:  # Leave blank if you don't have now
+    email: dvida@uwo.ca  # Leave blank if you don't have now
+    cv: # An online CV can be printed as PDF, leave blank if you don't have now
+
+# skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
     - name: fa-linux
